@@ -1,1 +1,1 @@
-Segundo teste para consolidação do conhecimento em Git e Github
+Segundo teste para consolidacao do conhecimento em Git e Github
